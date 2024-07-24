@@ -1,0 +1,41 @@
+body {
+    background-image: url("cf700a6a0d0a30faddbbafcfcbf19d85.jpg");
+    background-size: cover;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.main {
+    max-width: 80%;
+    margin: auto;
+}
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: rgb(241, 160, 214);
+}
+
+#save-btn {
+    background: rgb(103, 157, 238);
+}
